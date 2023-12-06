@@ -29,13 +29,14 @@
 <br/>
 
 ### Back-End:
-[<img align="left" alt="" width="32px" src="" />][linkedin]
-[<img align="left" alt="" width="32px" src="" />][linkedin]
-[<img align="left" alt="" width="32px" src="" />][linkedin]
+[<img align="left" alt="NodeJS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/nodejs-original.svg" />][linkedin]
+[<img align="left" alt="express" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/express.png" />][linkedin]
+[<img align="left" alt="bcrypt" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/bcrypt.svg" />][linkedin]
+[<img align="left" alt="multer" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/multer.png" />][linkedin]
 
 [<img align="left" alt="" width="32px" src="" />][linkedin]
 [<img align="left" alt="" width="32px" src="" />][linkedin]
-
+[<img align="left" alt="" width="32px" src="" />][linkedin]
 
 <br/>
 <br/>
@@ -44,8 +45,14 @@
 ### Tools
 [<img align="left" alt="Git" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/git-original.svg" />][linkedin]
 [<img align="left" alt="git2" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/github-original-wordmark.svg" />][linkedin]
+[<img align="left" alt="deta" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/deta.svg" />][linkedin]
+[<img align="left" alt="vite" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/vite.svg" />][linkedin]
+[<img align="left" alt="vscode" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/vscode-original.svg" />][linkedin]
+[<img align="left" alt="webpack" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/webpack.svg" />][linkedin]
+[<img align="left" alt="terminal" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/terminal.png" />][linkedin]
+[<img align="left" alt="trello" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/trello-plain.svg" />][linkedin]
 
-[<img align="left" alt="" width="32px" src="" />][linkedin]
+
 
 <br/>
 <br/>
@@ -53,18 +60,24 @@
 
 ### DB
 [<img align="left" alt="" width="32px" src="" />][linkedin]
-[<img align="left" alt="NodeJS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/nodejs-original.svg" />][linkedin]
 [<img align="left" alt="MongoDB" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/mongodb.svg" />][linkedin]
 [<img align="left" alt="FireBase" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/firebase.svg" />][linkedin]
 <br/>
 <br/>
 <br/>
 
-### IDE
+### Other
 
-[<img align="left" alt="" width="32px" src="" />][linkedin]
-[<img align="left" alt="" width="32px" src="" />][linkedin]
-[<img align="left" alt="" width="32px" src="" />][linkedin]
+[<img align="left" alt="figma" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/figma-original.svg" />][linkedin]
+[<img align="left" alt="npm" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/npm.svg" />][linkedin]
+[<img align="left" alt="parsel" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/parsel.avif" />][linkedin]
+[<img align="left" alt="postman" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/postman.svg" />][linkedin]
+
+[<img align="left" alt="slack" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/slack-original.svg" />][linkedin]
+
+
+
+
 <br/>
 <br/>
 <br/>
