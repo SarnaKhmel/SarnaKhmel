@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm [Oleksa Sarnatskyi][linkedin] </h1>
+# Hi I'm [Oleksa][linkedin] </h1>
   
 - 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**
