@@ -7,14 +7,10 @@
 ## Languages and Tools
 
 ### Front-End:
-[<img align="left" alt="HTML" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg" />][linkedin] *HTML*
+[<img align="left" alt="HTML" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg" />][linkedin] 
 
 
 [<img align="left" alt="CSS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/css3-original.svg" />][linkedin]
-
-![HTML](https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg) *HTML* <br>
-![CSS](https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/css3-original.svg) *CSS* <br>
-
 
 [<img align="left" alt="JS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/javascript-original.svg" />][linkedin]
 [<img align="left" alt="TS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/Typescript_logo_2020.svg" />][linkedin]
@@ -36,8 +32,8 @@
 ### Back-End:
 [<img align="left" alt="NodeJS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/nodejs-original.svg" />][linkedin]
 [<img align="left" alt="express" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/express.png" />][linkedin]
-[<img align="left" alt="bcrypt" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/bcrypt.svg" />][linkedin]
-[<img align="left" alt="multer" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/multer.png" />][linkedin]
+[<img align="left" alt="bcrypt" width="64px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/bcrypt.svg" />][linkedin]
+[<img align="left" alt="multer" width="64px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/multer.png" />][linkedin]
 
 [<img align="left" alt="" width="32px" src="" />][linkedin]
 [<img align="left" alt="" width="32px" src="" />][linkedin]
