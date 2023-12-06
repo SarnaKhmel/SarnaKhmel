@@ -81,5 +81,5 @@
 <br/>
 
 
-[linkedin]: https://www.linkedin.com/in/oleksa-sarnatskyi-79a63112
+[linkedin]: https://www.linkedin.com/in/oleksa-sarnatskyi/
 [codewars]: https://www.codewars.com/users/SarnaKhmel
