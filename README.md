@@ -12,6 +12,10 @@
 
 [<img align="left" alt="CSS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/css3-original.svg" />][linkedin]
 
+![HTML](https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg) *HTML* <br>
+![CSS](https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/css3-original.svg) *CSS* <br>
+
+
 [<img align="left" alt="JS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/javascript-original.svg" />][linkedin]
 [<img align="left" alt="TS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/Typescript_logo_2020.svg" />][linkedin]
 
