@@ -1,5 +1,4 @@
 <h1 align="center">Hi I'm [Oleksa Sarnatskyi][linkedin] </h1>
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/blockhero.png">
   
 - 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**
@@ -16,8 +15,7 @@
 [<img align="left" alt="SCSS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/sass-original.svg" />][linkedin]
 [<img align="left" alt="React" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/react-original.svg" />][linkedin]
 [<img align="left" alt="Redux" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/redux.svg" />][linkedin]
-
-
+[<img align="left" alt="MUI" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/redux.svg" />][linkedin]
 <br/>
 <br/>
 <br/>
