@@ -7,10 +7,7 @@
 ## Languages and Tools
 
 ### Front-End:
-<div>
-[<img align="left" alt="HTML" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg" />][linkedin]
-HTML
-</div>
+[<img align="left" alt="HTML" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/html5-original.svg" />][linkedin] *HTML*
 
 
 [<img align="left" alt="CSS" width="32px" src="https://github.com/SarnaKhmel/SarnaKhmel/blob/main/img/css3-original.svg" />][linkedin]
