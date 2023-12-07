@@ -1,7 +1,7 @@
 # Hi I'm [Oleksa][linkedin] </h1>
   
 - 👀 I’m interested in **computer programming & development**
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**
+- 🌱 I’m currently using **JavaScript, TypeScript, React, Node.js**
 - 📫 How to reach me **olsarnat@gmail.com**
 
 ## Languages and Tools
